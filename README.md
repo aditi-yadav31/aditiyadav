@@ -1,3 +1,4 @@
 # aditiyadav
-this is my first repo
-author aditi yadav
+This is my first repo
+<Br>
+Author - Aditi yadav
