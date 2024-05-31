@@ -1,5 +1,5 @@
-# CHETAN TANWAR
+# aditi yadav
 This is my first repo
 <Br>
-Author - CHETAN TANWAR 
+Author - aditi yadav 
 
